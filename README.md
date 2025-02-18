@@ -20,5 +20,5 @@ corresponds to the structural coordinates used for the target X-ray structure of
 corresponds to the structural coordinates produced by the best scoring HADDOCK model. There are four files in each folder.
 # min*.cif
 corresponds to converged HX-ESP structural coordinates. There are at least five files for any convered state. Additional text is added for forward and reverse states observed in PAK-1:GNE8350.
-# us*ns*.cif
+# us###ns*.cif
 corresponds to relaxed X-ray models as described in the main text. There are three files in each folder.
