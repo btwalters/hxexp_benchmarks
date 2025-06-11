@@ -1,9 +1,8 @@
 # hxespmethod_structures
 
 This repository contains structures used in the HXESP manuscript.
-Currently available on BioRxiv: 
 
-Walters, B. T., Patapoff, A. W., Wang, W., Wu, P. & Kiefer, J. A. Integrating Hydrogen Exchange with Molecular Dynamics for Improved Ligand Binding Predictions. bioRxiv, 2025, https://doi.org/10.1101/2025.01.13.632795
+Walters, B. T., Patapoff, A. W., Kiefer, J. R., Wu, P. & Wang, W. Integrating Hydrogen Exchange with Molecular Dynamics for Improved Ligand Binding Predictions. Journal of chemical information and modeling (2025). https://doi.org/10.1021/acs.jcim.5c00397
 
 Structures used for inputs to modelling by flexible docking or HX-ESP are the same for each HPK1 and PAK1 folder.  
 
@@ -19,6 +18,6 @@ corresponds to the structural coordinates used for the target X-ray structure of
 # cluster*.cif
 corresponds to the structural coordinates produced by the best scoring HADDOCK model. There are four files in each folder.
 # min*.cif
-corresponds to converged HX-ESP structural coordinates. There are at least five files for any convered state. Additional text is added for forward and reverse states observed in PAK-1:GNE8350.
+corresponds to converged HX-ESP structural coordinates. There are at least five files for any convered state.
 # us###ns*.cif
 corresponds to relaxed X-ray models as described in the main text. There are three files in each folder.
